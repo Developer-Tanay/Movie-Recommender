@@ -2,39 +2,9 @@
 
 A simple API for movie recommendations.
 
-## 🚀 Quick Start
-
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/Developer-Tanay/Movie-Recommender.git
-cd Movie-Recommender
-```
-**❗NOTE: Cloning may stuck because of Large Dataset size. Make sure You have a stable Internet connecion or try Downloading as a zip file then extract it to use.**
-
-### 2. Set Up the Environment
-
-Requirements are pinned for reproducibility.
-
-```powershell
-python -m venv .venv
-.\.venv\Scripts\Activate.ps1
-pip install -r requirements.txt
-```
-
-### 3. Run the Application
-
-```bash
-uvicorn app:app --reload
-```
-
-- The API will be available at: `http://127.0.0.1:8000/recommend`
-
----
-
 ## 📦 API Endpoint
 
-- **POST** `http://127.0.0.1:8000/recommend` — Send JSON Body
+- **POST** http://www.mr.syncio.dev/recommend — Send JSON Body
 
 #### Example Request
 
@@ -82,6 +52,36 @@ uvicorn app:app --reload
 
 ---
 
+## 🚀 Quick Start
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/Developer-Tanay/Movie-Recommender.git
+cd Movie-Recommender
+```
+**❗NOTE: Cloning may stuck because of Large Dataset size. Make sure You have a stable Internet connecion or try Downloading as a zip file then extract it to use.**
+
+### 2. Set Up the Environment
+
+Requirements are pinned for reproducibility.
+
+```powershell
+python -m venv .venv
+.\.venv\Scripts\Activate.ps1
+pip install -r requirements.txt
+```
+
+### 3. Run the Application
+
+```bash
+uvicorn app:app --reload
+```
+
+- The API will be available at: `http://127.0.0.1:8000/recommend`
+
+---
+
 ## 🤝 Contributing
 
 Contributions are welcome! Here’s how you can help:
@@ -116,3 +116,4 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 **TL;DR**: clone ➕ install ➕ run ➕ explore ➕ update ➕ PR = ❤️
 
 Happy modeling! 🚀
+
