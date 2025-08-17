@@ -60,6 +60,7 @@ A simple movie recommendation engine.
 git clone https://github.com/Developer-Tanay/Movie-Recommender.git
 cd Movie-Recommender
 ```
+**❗NOTE: Cloning may stuck because of Large Dataset size. Make sure You have a stable Internet connecion or try Downloading as a zip file then extract it to use.**
 
 ### 2. Set Up the Environment
 
@@ -106,6 +107,7 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 **TL;DR**: clone ➕ install ➕ run ➕ explore ➕ update ➕ PR = ❤️
 
 Happy modeling! 🚀
+
 
 
 
