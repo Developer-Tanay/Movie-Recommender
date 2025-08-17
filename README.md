@@ -70,15 +70,6 @@ python -m venv .venv
 .\.venv\Scripts\Activate.ps1
 pip install -r requirements.txt
 ```
-
-### 3. Run the Application
-
-```bash
-uvicorn app:app --reload
-```
-
-- The API will be available at: `http://127.0.0.1:8000/recommend`
-
 ---
 
 ## 🤝 Contributing
@@ -115,6 +106,7 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 **TL;DR**: clone ➕ install ➕ run ➕ explore ➕ update ➕ PR = ❤️
 
 Happy modeling! 🚀
+
 
 
 
