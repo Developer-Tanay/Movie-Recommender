@@ -1,6 +1,6 @@
 # __Movie Recommender__
 
-A simple movie recommendations engine.
+A simple movie recommendation engine.
 
 ## 📦 API Endpoint
 
@@ -116,6 +116,7 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 **TL;DR**: clone ➕ install ➕ run ➕ explore ➕ update ➕ PR = ❤️
 
 Happy modeling! 🚀
+
 
 
 
