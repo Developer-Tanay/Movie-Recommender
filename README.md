@@ -4,7 +4,7 @@ A simple API for movie recommendations.
 
 ## 📦 API Endpoint
 
-- **POST** http://www.mr.syncio.dev/recommend — Send JSON Body
+- **POST** https://www.mr.syncio.dev/recommend — Send JSON Body
 
 #### Example Request
 
@@ -116,4 +116,5 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 **TL;DR**: clone ➕ install ➕ run ➕ explore ➕ update ➕ PR = ❤️
 
 Happy modeling! 🚀
+
 
